@@ -1,0 +1,33 @@
+{
+  "originHash" : "cfcf6c7a3e4dbc2d164a9080105be2de347e947e53f108170bfe5085ab105f68",
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "swiftminizip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iharkatkavets/SwiftMiniZip.git",
+      "state" : {
+        "revision" : "2f555ee1a4f42490bd3da3ce1efc5c6b9d4669ca",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
