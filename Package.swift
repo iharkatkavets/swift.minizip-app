@@ -8,7 +8,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/apple/swift-argument-parser.git", from: "1.2.0"),
         .package(url: "https://github.com/iharkatkavets/SwiftMiniZip.git", from: "1.0.0"),
-        .package(url: "https://github.com/apple/swift-log.git", from: "1.0.4"),
+        .package(url: "https://github.com/apple/swift-log.git", from: "1.0.5"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

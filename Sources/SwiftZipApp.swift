@@ -29,7 +29,7 @@ struct SwiftZipApp: ParsableCommand {
         if mode == .zip {
             try Zip(config: .init([inputFile.url], outputFile.url)).perform()
         } else {
-            try Unzip(config: .init(inputFile.url, outputFile.url)).extract()
+            try Unzip(config: .init(inputFile.url, outputFile.url)).perform()
         }
     }
 }
